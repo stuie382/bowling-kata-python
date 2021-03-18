@@ -10,7 +10,7 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='sample',
+    name='bowling',
     version='0.1.0',
     description='Bowling Kata in Python',
     long_description=readme,
